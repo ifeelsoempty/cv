@@ -1,5 +1,5 @@
-### Anton Mescherin.  
-1. **Linkedin**: [Anton Mescherin](https://linkedin.com/in/anton-meshcherin-6877b1189).  
+### Anton Meshcherin.  
+1. **Linkedin**: [Anton Meshcherin](https://www.linkedin.com/in/anton-meshcherin-6877b1189/).  
    **Telegram**: [@ifeelsoempty](https://t.me/ifeelsoempty) *!important*.  
    **Email**: brayan.1702@mail.ru.  
    **Tel**: +7(927)-739-3336.  
