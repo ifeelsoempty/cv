@@ -8,7 +8,7 @@
 3. **JS, PHP, React, Yii, SQL, Git, LESS, HTML5, CSS3**.  
 4. I have a few projects, the most important of them is CRUD task-manager with API async requests, authorisation and Drag&Drops.  
    You can see more projects in my github.  
-5.** I am full-stack developer for 2 months in **partnerkin.com**.  
+5. I am full-stack developer for 2 months in **partnerkin.com**.  
 6. **Computer systems technical secondary education**(Samara Aviation College),  
    self-education, english-courses from Elementary to Intermediate.  
 7. My english is **B1(Intermediate)**.  
