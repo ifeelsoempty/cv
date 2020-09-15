@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>My CV</title>
+    <style>
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        color: #444;
+        background: rgb(100, 152, 200);
+      }
+
+      b{
+        color: rgb(100, 152, 200);
+        margin-left: -10px;
+      }
+
+      address{
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        top: 15px;
+        left: 15px;
+      }
+      address *, .social-networks *{
+        margin: 5px 2px;
+        letter-spacing: 1px;
+      }
+      
+      .cv-content {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        justify-content: center;
+        width: 1024px;
+        border-radius: 10px;
+        margin: 100px auto;
+        background: #fff;
+        box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
+        padding: 40px;
+      }
+      .cv-content ul{
+        padding-left: 0;
+        list-style: none;
+      }
+      .cv-content ul li {
+        font-size: 17px;
+        line-height: 30px;
+      }
+      .cv-content h1{
+        font-size: 40px;
+        font-weight: 100;
+        text-align: center;
+        letter-spacing: 2px;
+        margin-top: 0;
+        color: rgb(100, 152, 200);
+      }
+
+      .social-networks{
+        position: absolute;
+        top: 15px;
+        right: 15px;
+      }
+      .icon{
+        border-radius: 200px;
+        opacity: 0.3;
+        width: 30px;
+        height: 30px;
+      }
+      .icon:hover{
+        opacity: 0.6;
+      }
+      .github-icon{
+        right: 15px;
+      }
+      .telegram-icon{
+        right: 55px;
+      }
+      .linkedin-icon{
+        right: 95px;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="cv-content">
+      <h1>Anton Meshcherin</h1>
+      <div class="social-networks">
+        <a href="https://github.com/ifeelsoempty" target="_blank"><img class="icon github-icon" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png"></a>
+        <a href="https://t.me/ifeelsoempty" target="_blank"><img class="icon telegram-icon" src="https://cdn.iconscout.com/icon/free/png-256/telegram-1867901-1580057.png"></a>
+        <a href="https://www.linkedin.com/in/anton-meshcherin-6877b1189/" target="_blank"><img class="icon linkedin-icon" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2662666-2213265.png"></a>
+      </div>
+      <address>
+        <b><a class="email">brayan.1702@mail.ru.</a></b>
+        <b><a class="mobile">+7(927)-739-3336.</a></b>
+      </address>
+      <ul>
+        <li>
+          <b>About:</b><br>I am 19 y.o Full-stack developer, i have learned everything what i
+          know about web-dev on my own, that's my best skill. I have a lot of
+          motivation to move forward and grow-up as awesome front-end (and
+          partially back-end) developer.
+        </li>
+        <li>
+          <b>Code:</b><br>I have a few projects, the most important of them is a  CRUD task-manager
+          with API async requests, authorisation and Drag&Drops. You can see
+          more projects in my github.
+        </li>
+        <li>
+          <b>Education:</b>
+          <ul>
+            <li>Computer systems technical secondary education(Samara Aviation College)</li>
+            <li>English courses from Elementary to Intermediate.</li>
+            <li>Self-education</li>
+          </ul>
+        </li>
+        <li><b>Stack:</b><br>JS, PHP, React, Yii, SQL, Git, LESS, HTML5, CSS3.</li>
+        <li><b>Work experience:</b><br>Full-stack developer for 2 months in partnerkin.com.</li>
+        <li><b>English:</b><br>B1(Intermediate).</li>
+      </ul>
+    </main>
+  </body>
+</html>
